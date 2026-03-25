@@ -1,0 +1,15 @@
+{
+  "name": "Sherif-Fix | شريف فيكس",
+  "short_name": "Sherif-Fix",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#000000",
+  "theme_color": "#D4AF37",
+  "icons": [
+    {
+      "src": "/images/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    }
+  ]
+}
